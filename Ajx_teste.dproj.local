@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/22 08:02:49.000.972,=C:\Users\maiko\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/22 08:03:39.000.303,C:\Users\maiko\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Uconsulta.pas</Transaction>
+    <Transaction>2020/12/22 08:03:39.000.303,C:\Users\maiko\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Uconsulta.dfm</Transaction>
+    <Transaction>2020/12/22 08:13:52.000.442,C:\Users\maiko\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Ajx_teste.dproj</Transaction>
+    <Transaction>2020/12/22 08:15:48.000.143,=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Unit1.pas</Transaction>
+    <Transaction>2020/12/22 08:17:54.000.660,=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Unit2.pas</Transaction>
+    <Transaction>2020/12/23 09:41:56.000.145,=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Unit1.pas</Transaction>
+    <Transaction>2020/12/23 09:43:30.000.080,C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\UConexao.dfm=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Unit1.dfm</Transaction>
+    <Transaction>2020/12/23 09:43:30.000.080,C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\UConexao.pas=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Unit1.pas</Transaction>
+    <Transaction>2021/01/03 20:44:02.000.873,=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Unit1.pas</Transaction>
+    <Transaction>2021/01/03 20:44:24.000.112,C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Unit1.pas=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\UControlForms.pas</Transaction>
+    <Transaction>2021/01/03 20:45:56.000.606,=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Ucadastro.pas</Transaction>
+    <Transaction>2021/01/03 20:46:17.000.948,C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Ucadastro.pas=</Transaction>
+    <Transaction>2021/01/03 20:47:12.000.424,=C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\Ucadastro.pas</Transaction>
+    <Transaction>2021/01/03 20:52:42.000.638,C:\Users\maiko\OneDrive\Área de Trabalho\Ajx_teste\UControlForms.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
